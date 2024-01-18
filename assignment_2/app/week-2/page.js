@@ -3,7 +3,7 @@ import StudentInfo from "./student-info";
 
 export default function Page() {
   const pageStyle = {
-    backgroundColor: "blue",
+    backgroundColor: "lightgreen",
     padding: "20px",
   };
   return (
