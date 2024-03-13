@@ -31,6 +31,11 @@ export default function Home() {
           <h2 className="hover:text-green-500 hover:underline">Week 6</h2>
         </a>
       </div>
+      <div>
+        <a href="../week-7">
+          <h2 className="hover:text-green-500 hover:underline">Week 7</h2>
+        </a>
+      </div>
     </main>
   );
 }
